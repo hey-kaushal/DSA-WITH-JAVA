@@ -55,9 +55,9 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 - **Version Control:** Git & GitHub 
 
 ## pending work
-1) variable and data type :-type convertion ,type casting ,type promotion expression
-2) operator:- questions not solved fully 
-3) loops playlist not finished 
+1) variable and data type :-type convertion ,type casting ,type promotion expression      //type promotion expression
+2) operator:- questions not solved fully  //complete 
+3) loops playlist not finished         
 4) loops questions &prime number check que not finished
 5) pattern question not done yet
 6) function prime or decimal pending +que 
